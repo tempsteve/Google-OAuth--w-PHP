@@ -1,8 +1,0 @@
-<a href="https://accounts.google.com/o/oauth2/auth?response_type=id_token&client_id=your_client_id&redirect_uri=https://localhost/callback.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email">Login with Google</a>
-
-<!--
-1.Use your own client_id.
-2.Use your own redirect_uri.
-3.You can set your own scope options, the default value is "email".
-4.Here for the API: https://console.developers.google.com
--->
